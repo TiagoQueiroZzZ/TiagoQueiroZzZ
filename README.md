@@ -28,8 +28,6 @@
 
 🚀 Meu objetivo é evoluir constantemente e conquistar meu espaço como desenvolvedor.
 
-> `Building, breaking, learning and coding.`
-
 ---
 
 ## ⚔️ `TECH STACK`
@@ -75,18 +73,6 @@
 
 ---
 
-## 📊 `SYSTEM STATS`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TiagoQueirozZZZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=00F5D4&text_color=FFFFFF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoQueirozZZZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF"/>
-
-</div>
-
----
-
 ## 🧪 `PROJECTS`
 
 > `Loading projects...`
@@ -108,9 +94,11 @@ Status: UNDER DEVELOPMENT 🚧
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TiagoQueirozZZZ-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TiagoQueirozZZZ)
+[![GitHub](https://img.shields.io/badge/GitHub-TiagoQueirozZZZ-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Queiroz-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-tiago_queirozzz-0D1117?style=for-the-badge\&logo=instagram\&logoColor=0A66C2)](https://www.instagram.com/)
 
 </div>
 
@@ -118,7 +106,7 @@ Status: UNDER DEVELOPMENT 🚧
 
 <div align="center">
 
-### `01001000 01100101 01101100 01101100 01101111`
+### `01000001 01110100 11101001 00100000 01100001 00100000 01110000 01110010 11110011 01111000 01101001 01101101 01100001 00100001  `
 
 **Thanks for visiting my profile! 👾**
 
