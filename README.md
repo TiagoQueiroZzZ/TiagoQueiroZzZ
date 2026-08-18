@@ -94,9 +94,7 @@ Status: UNDER DEVELOPMENT 🚧
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TiagoQueirozZZZ-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Queiroz-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Queiroz-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/tiago-queirozzz/?skipRedirect=true)
 
 [![Instagram](https://img.shields.io/badge/Instagram-tiago_queirozzz-0D1117?style=for-the-badge\&logo=instagram\&logoColor=0A66C2)](https://www.instagram.com/tiago_queirozzz/)
 
