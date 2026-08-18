@@ -106,8 +106,9 @@ Status: UNDER DEVELOPMENT 🚧
 
 ### `01000001 01110100 11101001 00100000 01100001 00100000 01110000 01110010 11110011 01111000 01101001 01101101 01100001 00100001  `
 
-**Thanks for visiting my profile! 👾**
 
-`< keep coding. keep learning. keep leveling up. />`
+
+
+**< Thanks for visiting my profile! /> 👾**
 
 </div>
