@@ -98,7 +98,7 @@ Status: UNDER DEVELOPMENT 🚧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Queiroz-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-tiago_queirozzz-0D1117?style=for-the-badge\&logo=instagram\&logoColor=0A66C2)](https://www.instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-tiago_queirozzz-0D1117?style=for-the-badge\&logo=instagram\&logoColor=0A66C2)](https://www.instagram.com/tiago_queirozzz/)
 
 </div>
 
