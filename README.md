@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 `TiagoQueirozZZZ`
+# 👾 `Tiago Queiroz`
 
 ### `> ADS Student | Developer in Progress_`
 
@@ -19,11 +19,10 @@
 ║  LEVEL        : Learning...                  ║
 ║  SPECIALTY    : Problem Solving              ║
 ║  CURRENT QUEST: Become a better developer    ║
-║  STATUS       : 🟢 ONLINE                    ║
 ╚══════════════════════════════════════════════╝
 ```
 
-🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)** e construindo minha jornada no mundo da tecnologia.
+🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas (UNICID)** e construindo minha jornada no mundo da tecnologia.
 
 💻 Gosto de aprender na prática, transformar ideias em projetos e entender como as coisas funcionam por trás do código.
 
